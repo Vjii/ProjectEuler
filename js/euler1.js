@@ -10,7 +10,7 @@
 					sum += i;
 				}
 			}
-		document.getElementById("multiplesAnswer").innerHTML = "<h3> Sum of multiples: " + sum + "</h3>";
+		document.getElementById("multiplesAnswer").innerHTML = "<h4> Sum of multiples: " + sum + "</h4>";
 		return false;
 	};
 

@@ -28,7 +28,7 @@ function evenFibonacci() {
 		}
 	}
 
-	document.getElementById("multiplesAnswer2").innerHTML = "<h3> Sum of even numbers: " + sum + "</h3>";
+	document.getElementById("multiplesAnswer2").innerHTML = "<h4> Sum of even numbers: " + sum + "</h4>";
 	return false;
 };
 
